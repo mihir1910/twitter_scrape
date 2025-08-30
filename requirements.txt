@@ -1,0 +1,9 @@
+selenium>=4.8
+webdriver-manager
+pandas
+pyarrow
+numpy
+scikit-learn
+matplotlib
+tqdm
+nltk
